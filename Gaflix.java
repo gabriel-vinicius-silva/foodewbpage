@@ -1,12 +1,18 @@
 
+
+/**
+ * 
+ * @author Gabriel Vinicius da silva, my web site : https://github.com/gabriel-vinicius-silva 
+ * 
+ **/
 public class Gaflix {
     public static void main (String[] args) {
         //variaveis 
-    				//variveis int
-                    int anoFilme1 = 2017;
-                    int anoFilme2 = 2023;
-                   //variveis na forma String
-                    String  filmes3 = "pregando o amor";
+		//variveis int
+        int anoFilme1 = 2017;
+        int anoFilme2 = 2023;
+       //variveis na forma String
+        String  filmes3 = "pregando o amor";
 
          // Mensagem de boas-vindas
         System.out.println("bem-vindo a GabriFlix");
